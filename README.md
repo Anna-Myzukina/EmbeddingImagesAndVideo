@@ -11,5 +11,7 @@ for video we use HTML teg <a href="https://developer.mozilla.org/en-US/docs/Web/
         The value 1 (the default) draws a border around this frame. 
         The value 0 removes the border around this frame, but you should    
         instead use the CSS property border to control <iframe> borders.
+        
+        
 
 3) right sidebar where gorisontal list with videos
