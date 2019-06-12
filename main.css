@@ -351,6 +351,10 @@
 /*==============finish reset styles===============*/
 
 /*=============main style header ==============*/
+* {
+box-sizing: border-box;
+}
+
 iframe{
   border: 0px;
 }
@@ -364,6 +368,7 @@ body {
 }
 
 header {
+  text-align: center;
   position: fixed;
   top: 0;
   left: 0px;
@@ -395,7 +400,6 @@ header>div {
 .nav-icon {
   width: 24px;
   height: 24px;
-  padding: 8px;
   margin: 0 16px 0 0;
   color: #606060;
 }
