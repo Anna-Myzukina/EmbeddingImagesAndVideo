@@ -2,7 +2,7 @@
 Project-Maya-Anna
 <a href="https://anna-myzukina.github.io/EmbeddingImagesAndVideo/.">Live project</a>
 
-We delete our page on 3 logic sections
+We create 3 logic sections
 
 1) header => this part include nav-menu in left-top-corner => then logo of youtube => then search field => buttons in the right-top-corner
 
